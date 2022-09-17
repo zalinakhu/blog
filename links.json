@@ -1,0 +1,15 @@
+{
+  "links": [
+    {
+      "title": "About",
+      "url": "/about",
+      "icon": "about",
+      "links": [
+        {
+          "title": "About me",
+          "url": "/about/me"
+        }
+      ]
+    }
+  ]
+}
